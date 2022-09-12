@@ -9,12 +9,16 @@
 
 body {
     background-color: var(--main-bg);
+    font-family: 'Outfit', sans-serif;
+}
+
+main {
     height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Outfit', sans-serif;
+    padding: 10px;
 }
 
 .card {
